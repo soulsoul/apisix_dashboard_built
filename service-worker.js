@@ -1,4 +1,4 @@
-importScripts("/apisix/dashboard/precache-manifest.53033b4d568a641fbc9ea228cd78b8e7.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/apisix/dashboard/precache-manifest.bee649c6dcf368c964e708d8e7de715f.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 // This is the code piece that GenerateSW mode can't provide for us.
 // This code listens for the user's confirmation to update the app.
